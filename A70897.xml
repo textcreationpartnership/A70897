@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox lunaris being a philosophical &amp; astrological discourse of two moons which were seen at London and the parts adjacent, June the eleventh 1679. a little before midnight. And what may in a course of nature be expected from this phasma in Europe. With some particular remarques upon the conjunctions of Saturn and Jupiter, and of the eclipses in Gemini, &amp;c. for 120 years last past. By John Partridge student in Physick and Astrology.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70897</idno>
+            <idno type="STC">Wing P629aA</idno>
+            <idno type="STC">ESTC R214718</idno>
+            <idno type="EEBO-CITATION">99826797</idno>
+            <idno type="PROQUEST">99826797</idno>
+            <idno type="VID">31205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31205)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1769:35, 2149:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox lunaris being a philosophical &amp; astrological discourse of two moons which were seen at London and the parts adjacent, June the eleventh 1679. a little before midnight. And what may in a course of nature be expected from this phasma in Europe. With some particular remarques upon the conjunctions of Saturn and Jupiter, and of the eclipses in Gemini, &amp;c. for 120 years last past. By John Partridge student in Physick and Astrology.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+               </titleStmt>
+               <extent>[6], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Bromwich at the Three Bibles, over against St. Martins Church within Ludgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Philosophical &amp; Astrological" are bracketed together on title page.</note>
+                  <note>Identified as Wing (2nd ed.) P629 on UMI microfilm "Early English books, 1641-1700", reel 1769.</note>
+                  <note>Reproductions of the originals in the Trinity College (University of Cambridge) Library ("Early English books, 1641-1700", reel 1769), and the Bodleian Library (reel 2149).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Astronomy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="errata">
+            <pb facs="tcp:31205:1"/>
+            <head>Correct theſe Errours following.</head>
+            <p>PAge 3. line 14. for <hi>this</hi> read <hi>thus,</hi> l. 15. for ♌ 25. r. ♌ 28. p. 12. for <hi>decanale</hi> r. <hi>decanate,</hi> p. 16. l. 5. for <hi>ſignification</hi> r. <hi>Significator,</hi> p. 17. for <hi>Bonal.</hi> r. <hi>Bonat.</hi> p. 18. l. 12. for <hi>Hilea</hi> r. <hi>Hi<g ref="char:EOLhyphen"/>leg.</hi> l. 24. <hi>dele</hi> 
+               <g ref="char:quadrine">□</g>, p. 20. l. 5. r. <hi>Oppoſition of</hi> Saturn <hi>and Square of</hi> Ju<g ref="char:EOLhyphen"/>piter, l. ult. r. <hi>Plato</hi>'s, p. 21. l. 1. &amp; 2. for <hi>communicated to ſome</hi> r. <hi>advanced by others,</hi> l. 5. r. <hi>uratur,</hi> p. 28. l. 30. dele <hi>ſequel.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:31205:1" rendition="simple:additions"/>
+            <p>VOX LUNARIS, BEING <hi>A Philoſophical</hi> &amp; <hi>Aſtrological Diſcourſe</hi> OF Two MOONS Which were ſeen at LONDON And the parts Adjacent, <hi>June</hi> the Eleventh 1679. a little before Midnight.</p>
+            <p>And what may in a Courſe of Nature be ex<g ref="char:EOLhyphen"/>pected from this <hi>Phaſma</hi> in <hi>Europe.</hi>
+            </p>
+            <p>With ſome particular Remarques upon the Conjuncti<g ref="char:EOLhyphen"/>ons of <hi>Saturn</hi> and <hi>Jupiter,</hi> and of the Eclipſes in <hi>Ge<g ref="char:EOLhyphen"/>mini,</hi> &amp;c. for 120 years laſt paſt.</p>
+            <p>By <hi>John Partridge</hi> Student in Phyſick and Aſtrology.</p>
+            <q xml:lang="lat">Tunc erunt ſigna in <hi>Sole</hi> in <hi>Luna</hi> &amp; Syderibus.</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>William Bromwich</hi> at the <hi>Three Bibles,</hi> over againſt St. <hi>Martins</hi> Church within <hi>Ludgate,</hi> 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31205:2"/>
+            <head>To all the Learned and Loyal Sons of <hi>Urania,</hi> and to all other Inquiring and Ingenious Lovers of Truth.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I have no better Argument to court your Ap<g ref="char:EOLhyphen"/>probation, and win your good Nature, then by making you both Maſters and Judges at once, of my unworthy Labours; I well know<g ref="char:EOLhyphen"/>ing that Ingenious men cannot be unkind; but if they ſhould chance to be ſo, it is not their Na<g ref="char:EOLhyphen"/>ture, and therefore not dureable. However, I will adventure to preſent you with this <hi>Mani<g ref="char:EOLhyphen"/>pulus benevolentiae,</hi> in which you may ſee both the deſire and endeavour of,</p>
+            <closer>
+               <signed>Gentlemen your Servant and well wiſher <hi>John Partridge.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:31205:2"/>
+            <head>To the Honeſt, Ingenious and Chriſtian READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> do not here intend to perſwade thee to believe that theſe <hi>Phaſma</hi>'s are the cauſes of any natural effect in the World; or that they do produce any thing by Sym<g ref="char:EOLhyphen"/>pathetical operation, either upon Men or Things, as other Configurations of the Heavens do; for thoſe things act and work by a natural impulſe, inclining the ſenſitive part of a man to action; hence their effects are more or leſs viſible according as the Rational Soul, is either active or paſſive, for <hi>Agunt non Cogunt,</hi> and in this point man uſeth the freedom of his will, according as he is inſpired by a Natural Vertue or the Divine Grace (chuſe you by which name you will call it) for a mans fate is not bound to the Stars as ſome think, for they do but work upon the ſenſes and incline, yet ſo ſtrongly in ſome who are of depraved and vicious nature, that they are not able to reſiſt it; hence we may obſerve, that he who hath his <hi>Moon</hi> and <hi>Mercury</hi> ſtrong, and in good <hi>Aſpect</hi> with <hi>Saturn</hi> and <hi>Jupiter,</hi> hath a natural command of his will, which others have not; there<g ref="char:EOLhyphen"/>fore the contention of the Naturals with the Supernaturals, (or as St. <hi>Paul</hi> words it, <hi>the Fleſh and Spirit</hi>) cauſeth thoſe dolorous Paſſions of the mind, which being conquered, prove the beſt of pleaſures; and of theſe kind of concuſſions <hi>Plato</hi> ſpeaks in his Dialogue, <hi>Philebus vel de ſummo bono,</hi> when
+<pb facs="tcp:31205:3"/> he ſaith, <hi>ſunt igitur mixtiones corporis quidem ipſius in Corporibus, animae &amp; anima, &amp; dolores animae &amp; corpòris voluptatibus mixtos reperiemus; eamque utrorumque commixtionem interdum voluptatem, in<g ref="char:EOLhyphen"/>terdum vero dolorem Cognominatum,</hi> that there are divers mixtures of the body exiſtent, that of the body in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ody, that of the Soul in the Soul, and the dolors of the Soul and Body we ſhall find mixt with pleaſures; and either of them or the commixtion of both, are ſometimes called pleaſure, and ſometimes pain.</p>
+            <p>But theſe kind of Apparitions, as, <hi>Parelii, Paraſelene</hi> and <hi>Comets,</hi> are but the Ambaſſadors of Nature, being ſent by the Superiour Powers to tell the World that God is angry, which <hi>Dubartas</hi> thus obſerveth,
+<q>
+                  <lg>
+                     <l>On th' other ſide, if the Cloud ſide long fit,</l>
+                     <l>And not beneath or juſtly oppoſite;</l>
+                     <l>To <hi>Sun</hi> and <hi>Moon,</hi> then either of them forms,</l>
+                     <l>With ſtrong <hi>Aſpect</hi> double or treble forms.</l>
+                  </lg>
+                  <lg>
+                     <l>Upon the ſame the Vulgar's then affright,</l>
+                     <l>To ſee at once three Chariots of the Night.</l>
+                     <l>And in the <hi>welkin</hi> on nights gloomy throne,</l>
+                     <l>To ſee at once more ſhining <hi>Moons</hi> then one.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>And a little after thus.
+<q>
+                  <lg>
+                     <l>God the great God of Heaven ſometimes Delights</l>
+                     <l>From top to toe to alter natures Rites.</l>
+                     <l>And his ſtrong works to Nature contrary,</l>
+                     <l>May be fore-runners to ſome Miſery.</l>
+                  </lg>
+               </q>
+            </p>
+            <pb facs="tcp:31205:3"/>
+            <p>And indeed this is not much unlike that of <hi>Herodotus</hi> the Philoſopher, who ſaith, <hi>That when God intended to puniſh a City or Nation, he firſt ſhews them his Deſign by Prodigies and Apparitions, that he may leave them inexcuſable, under the ſcourge of their ſins</hi>— for —. <hi>Loquitur cum hominibus Deus non modo Linguâ huma<g ref="char:EOLhyphen"/>nâ per Prophetas, Apoſtolas &amp; Paſtores ſed non nun<g ref="char:EOLhyphen"/>quam etiam ipſis Elementis in formas &amp; magines diver<g ref="char:EOLhyphen"/>ſas Compoſitis,</hi> i. e. God doth not only teach us by the mouths of his Prophets, Apoſtles and Paſtors, but ſome<g ref="char:EOLhyphen"/>times by Elementary Meſſengers, compoſed into divers Forms and Images. For when the courſe of nature is changed, it is not to inform the Superior, but the Inferior World, for man is made as well for Speculation as Contemplation, and therefore what Preternatural ſights are afforded either in Heaven or Earth is deſigned for mans inſpection, and by how much the more they differ from the uſual courſe of nature, by ſo much the more they are to be taken notice of; and <hi>Hippo<g ref="char:EOLhyphen"/>cratis</hi> (the <hi>princeps Medicorum</hi>) in his Book <hi>de Inſomniis,</hi> hath a Learned Diſcourſe of Dreams, of the <hi>Sun, Moon</hi> and <hi>Stars,</hi> which if they appear in their natural quality, courſe and motion, they then ſignifie Health, but if other<g ref="char:EOLhyphen"/>wiſe the contrary, <hi>Vide in libro citato:</hi> Yet indeed theſe are no new things, for Hiſtory is fertile with Preſidents and examples of this, as you may find in Hiſtory.</p>
+            <p>
+               <hi>Anno 1551.</hi> at <hi>Antwerp</hi> were three <hi>Suns</hi> ſeen, and twice two <hi>Mock-Moons;</hi> after it the Duke of <hi>Somerſet</hi> was Beheaded, great Diſputes in <hi>Germany</hi> about Religion, and the <hi>French</hi> Invade the Empire.</p>
+            <p>
+               <hi>Anno 1553.</hi> three <hi>Suns</hi> appeared, and after <hi>Sun</hi>-ſet three Moons, the <hi>Engliſh</hi> Papiſts and Proteſtants Diſ<g ref="char:EOLhyphen"/>pute
+<pb facs="tcp:31205:4"/> about Religion, and Queen <hi>Mary</hi> comes to the Crown.</p>
+            <p>
+               <hi>Anno 1622.</hi> there were three <hi>Suns</hi> ſeen, and divers Circles about the <hi>Sun</hi> and <hi>Moon,</hi> what Calamities then fell upon the <hi>Palatinate,</hi> ſome yet living have cauſe to la<g ref="char:EOLhyphen"/>ment; many more examples of this kind might be pro<g ref="char:EOLhyphen"/>duced, but they being more proper for a Treatiſe then a Preface, I forbear to trouble you with any more of theſe in this place, and ſo I leave this following Treatiſe to be Read and Cenſured as the Ingenious Reader ſhall think fit, de<g ref="char:EOLhyphen"/>ſiring him to remember, <hi>With what meaſure you meet,</hi> &amp;c.</p>
+            <p>
+               <hi>From the Corner of</hi> James-ſtreet, <hi>next door to the</hi> Kings-head <hi>in</hi> Covent-Garden, <hi>where Aſtro<g ref="char:EOLhyphen"/>logy is Studied and Practiſed in all its parts</hi>
+            </p>
+            <byline>By <hi>John Partridge.</hi>
+            </byline>
+         </div>
+      </front>
+      <body>
+         <div type="astrological_treatise">
+            <pb n="1" facs="tcp:31205:4"/>
+            <head>AN Aſtrological Diſcourſe OF Two MOONS Which were ſeen the Eleventh day of <hi>June</hi> laſt, a little before Midnight.</head>
+            <p>NExt to the Holy Writ, Phyloſophy (Speculative and Practical) is the only means to let us know, that God hath left a lively Inſcription of his Finger upon all his works; not Graphical by a Literal Compoſi<g ref="char:EOLhyphen"/>tion of Letters or Characters; but Myſtical, of the ſeveral forms, orders and conſtitutions of things, which aptly and duely put together Spells all the effects of nature, — as — Number, Mea<g ref="char:EOLhyphen"/>ſure, Weight, Quantity, Quality, Matter, Form, Privation, Ge<g ref="char:EOLhyphen"/>neration, Corruption, Motion, Reſt, Soul, Body, Life and Death, and after the ſame Pyloſophical method, though in a more holy ſenſe, the Wiſe, Omnipotent calls the Stars by their Names; and by the ſame Myſtical order did <hi>Adam</hi> give each Creature a name peculiar to its nature in Paradice, and nature doth then moſt vi<g ref="char:EOLhyphen"/>ſibly ſhew the Treaſures of her fertility, when ſhe doth unboſom her ſelf to the whole World by diverſities of <hi>Phaenomina</hi>'s, whoſe nature and effects are only examinable by Natural Phyloſophy, and therefore take this ſhort account of their generation and
+<pb n="2" facs="tcp:31205:5"/> and exiſtence, before I come to ſpeak in particular to the Aſtro<g ref="char:EOLhyphen"/>logical effects hence depending.</p>
+            <p>The cauſe and generation of theſe <hi>Mock-Moons,</hi> is the ſame with the <hi>Parelii</hi> or <hi>Mock-Suns;</hi> for as the <hi>Mock-Suns</hi> are called <hi>Parelii</hi> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſo theſe are called <hi>Paraſelene</hi> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and although this is not ſo much taken notice of as the <hi>Parelii</hi> (it being an accident of the leſſer Luminary) yet it is from the ſame Cauſe, of the ſame Nature, though leſs forcible in effect, and of the ſame name alſo the particulars conſidered, they being both the effect of Refraction, Reflection, whoſe ſub<g ref="char:EOLhyphen"/>ject matter is a Cloud that is thick, plain and watery, and the Air quiet and free from Wind; for a turbulent Air diſſipates the matter that produceth the Reflection, and this is the ſecond of this kind of <hi>Phaſma</hi>'s that have been ſeen ſince <hi>Chriſtmas</hi> laſt, the firſt of which was ſeen the ſixth day of <hi>January</hi> about Eleven of the Clock at Night, and was obſerved by divers ſufficient men of <hi>Hereford,</hi> but eſpecially by Mr. <hi>Mathews</hi> a very Ingenious Gentle<g ref="char:EOLhyphen"/>man; the laſt of theſe hapned the Eleventh of <hi>June</hi> laſt, a little, before Midnight: But beſides theſe two <hi>Phaſma</hi>'s, there were alſo two others before of the <hi>Sun</hi> ſeen in <hi>England;</hi> the firſt of which hap<g ref="char:EOLhyphen"/>pened the 28th. day of <hi>July</hi> about Eight of the Clock in the Morn<g ref="char:EOLhyphen"/>ing, and was ſeen in <hi>Oxfordſhire</hi> and <hi>Northamptonſhire;</hi> Thus the true <hi>Sun</hi> had on each ſide of it another like it with a Circle paſ<g ref="char:EOLhyphen"/>ſing through the Center of the two <hi>Mock-Suns,</hi> and a right Line paſſing through them all three.</p>
+            <p>The other happened <hi>October</hi> the 10 day about four in the After<g ref="char:EOLhyphen"/>noon, and was obſerved at <hi>Windſor,</hi> the true <hi>Sun</hi> being Beſieged by two falſe ones, and one of them exceeded the true one in Light and Glory: Upon this occaſion I took the pains to write a few Sheets upon the then preſent Affairs, and what might in a courſe of nature be expected the Winter following, but Autho<g ref="char:EOLhyphen"/>rity would not afford me the Liberty of the Preſs, and ſo my Labours were doom'd to Oblivion; but of theſe former ones I have given a better Account in my <hi>Almanack</hi> for 1680, and thi<g ref="char:EOLhyphen"/>ther do I refer my Reader for further ſatisfaction, and haſten to my Aſtrological Diſcourſe upon this <hi>Phaenomenon,</hi> deduced from a
+<pb n="3" facs="tcp:31205:5"/> Figure erected to the middle of their appearance as near as can be gotten from thoſe divers relations of its Spectators, that is 50 Minutes after Eleven of the Clock at Night.</p>
+            <figure>
+               <head>Figura Caeli ad tempus Paraſalence. ad <hi>Jun.</hi> 11. hor. 11. min. 50 M. P. 1679. <g ref="char:Moon">☽</g> a <g ref="char:trine">△</g> ♀ ad <g ref="char:quadrine">□</g> ♂</head>
+               <figDesc>depiction of the configuration of planets at a certain date and time</figDesc>
+            </figure>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Longitu. Solis</cell>
+                     <cell>♋</cell>
+                     <cell>0</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Aſcen. Rec.</cell>
+                     <cell>☉</cell>
+                     <cell>90</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="2">Aſcen. Recta temporis</cell>
+                     <cell> </cell>
+                     <cell>165</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Aſcen. Rect. M. C. add. 90</cell>
+                     <cell> </cell>
+                     <cell>257</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Obli. Aſen. Aſcen.</cell>
+                     <cell> </cell>
+                     <cell>357</cell>
+                     <cell>59</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Longitudo Planetorum</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>28</cell>
+                     <cell>28</cell>
+                     <cell>♊</cell>
+                     <cell rows="6">all direct.</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>3</cell>
+                     <cell>48</cell>
+                     <cell>♉</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>8</cell>
+                     <cell>40</cell>
+                     <cell>♍</cell>
+                  </row>
+                  <row>
+                     <cell>☉</cell>
+                     <cell>0</cell>
+                     <cell>27</cell>
+                     <cell>♋</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>3</cell>
+                     <cell>48</cell>
+                     <cell>☊</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>13</cell>
+                     <cell>3</cell>
+                     <cell>♊</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>35</cell>
+                     <cell>♐</cell>
+                     <cell>Lat. So. 3<hi rend="sup">d</hi> 14</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="4" facs="tcp:31205:6"/>
+            <p>I have the rather taken this pains at this time, becauſe his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> happened ſo unhapily upon the <hi>Suns</hi> entrance into <hi>Cancer,</hi> the moſt <hi>Northern</hi> point of the whole <hi>Zodiack,</hi> and the <hi>Stars</hi> ſo unfortunately placed as you may ſee: <hi>Saturn</hi> is in <hi>Conjunction</hi> with the <hi>Sun,</hi> and both in <hi>Oppoſition</hi> to the <hi>Medium Caeli,</hi> the <hi>Moon</hi> in <hi>Conjunction</hi> with the <hi>Scorpions heart</hi> in <hi>Square</hi> to <hi>Mars,</hi> and <hi>Oppoſition</hi> of <hi>Mercury, Jupiter</hi> in the <hi>Horoſcope</hi> in <hi>partile Square</hi> to <hi>Venus</hi> in the ſixth houſe, and <hi>Mercury</hi> Lord of the fourth, in <hi>Square</hi> to <hi>Mars</hi> Lord of the firſt and eight.</p>
+            <p>With theſe conſider alſo the double bodied <hi>Signs, Saturn</hi> af<g ref="char:EOLhyphen"/>flicts the <hi>Sun</hi> in <hi>Gemini,</hi> a double bodied <hi>Sign,</hi> the <hi>Moon</hi> and <hi>Mercury</hi> are both afflicted in double bodied <hi>Signs,</hi> by <hi>Mars</hi> Lord of the eight houſe and <hi>Piſces</hi> a <hi>Bicorporeal</hi> Sign aſcends the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, hence may an ordinary Aſtrologer with little conſideration give a rational ſatisfactory judgment upon this Figure, as it concerns the general Affairs the next ſix months ſucceeding and more, which will afford matter enough for the Actors and Spectators of this Tragy-comedy to gaze at: For the World is but the vaſt univerſal Theater, and men and women the Puppets with which the Fates ſport themſelves.
+<q xml:lang="lat">Ludit in humanis divina potentia rebus.</q>
+            </p>
+            <p>This enſuing Judgment may be divided into two Parts, as it were under two Heads, <hi>viz. General</hi> and <hi>Particular.</hi>
+            </p>
+            <p>
+               <hi>Firſt</hi> in <hi>General,</hi> the firſt thing conſiderable is <hi>Saturn</hi> in the fourth houſe caſting his <hi>Square</hi> to the <hi>Aſcendant,</hi> and his <hi>Oppoſition</hi> to the tenth, and by his proximity afflicts the <hi>Sun,</hi> this old Gentle<g ref="char:EOLhyphen"/>man <hi>Saturn</hi> in this Figure performs the place and buſineſs of a common incendiary, he whiſpers to one, and he writes to another, and indeed he diſturbs the peace of all, ſure he ſhould be a <hi>Jeſuit,</hi> or one indued with ſuch principles by his action and endeavour, here he diſturbs the minds of Nobles, he poiſons the hearts of the people, and he ſets them againſt their Superiors; for here you ſee he is in direct <hi>Oppoſition</hi> to the tenth houſe, the houſe of digni<g ref="char:EOLhyphen"/>ty, and if there be difference between his <hi>Oppoſition</hi> and the tenth houſe, it is yet applying by reaſon of his Latitude, but yet as <hi>Saturn</hi> and the <hi>Sun</hi> are the only <hi>Stars</hi> angular in this Figure, and
+<pb n="5" facs="tcp:31205:6"/> both within <hi>Orbs</hi> of the <hi>Sextile</hi> of <hi>Jupiter,</hi> ſo there ſhall be ſome who on the other ſide will uſe their utmoſt endeavour to preſerve Peace and ſecurity, to prevent dangers, and preſerve their Prince in ſafety, as <hi>Guido Bonat.</hi> well obſerves <hi>part.</hi> 4. <hi>chap.</hi> 59.</p>
+            <p>In the Preventional New <hi>Moon Saturn,</hi> was directly oppoſite to his place here, and the <hi>Sun</hi> and <hi>Moon</hi> alſo upon the place of the laſt <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Mars,</hi> haſting to a <hi>Conjunction</hi> of <hi>Saturn</hi> in the tenth Houſe; and at the ingreſs of the <hi>Sun</hi> into <hi>Cancer</hi> they were both in <hi>Conjuction</hi> upon the Cuſp of <hi>M. C.</hi> Hence I am of Opinion that there will be ſtill ſtrange Devices and In<g ref="char:EOLhyphen"/>tentions both againſt Princes and their Government: But for their Incouragement I can tell them, that the <hi>Moon</hi> is in <hi>Con<g ref="char:EOLhyphen"/>junction</hi> with the <hi>Seorpions heart,</hi> in <hi>Oppoſition</hi> to <hi>Mercury,</hi> and <hi>Square</hi> of <hi>Mars</hi> Lord of the eight Houſe, and <hi>Saturn</hi> the great Patron of this work is afflicted by Combuſtion in the fourth Houſe. Mars Lunae <hi>tetragonis aut oppoſitis radiis Configuratus in</hi> Signis <hi>humanis Seditione, Bello, aut propria Manu Natos interficien<g ref="char:EOLhyphen"/>das decernit:</hi> Thus Argul. Cor. Scorpio <hi>cum</hi> Luminaribus <hi>cruentam mortem ſignificat,</hi> Origan. 723. Saturnus Soli <hi>junctus Lapidationem, Strangulationem, vel Suffocationem Igne vel Aqua portendit: Item amputationem Capitis, Suſpendium,</hi> &amp;c. Ptolo. Par. Fol. 137. In <hi>Engliſh</hi> thus, <hi>Mars</hi> Configurated by <hi>Square</hi> or <hi>Oppoſition</hi> to the <hi>Moon</hi> from humane <hi>Signs,</hi> it ſhews ſome ſhall be ſlain by Sedi<g ref="char:EOLhyphen"/>tion, by War, or by their own Hand; alſo the <hi>Cor. Scorpio</hi> with the <hi>Luminaries</hi> ſignifies a violent Death: And laſtly, <hi>Saturn</hi> joyn'd to the <hi>Sun,</hi> doth portend Stoning, Strangling, or Suffocation by Fire or Water; alſo Beheading, Hanging, <hi>&amp;c.</hi> Let the Vul<g ref="char:EOLhyphen"/>gar ceaſe their Murmurs, for the Governours not only of our Kingdom, but of others too, will uſe their utmoſt endeavours, not only to prevent future miſeries, but alſo to puniſh falſe offences; and to this purpoſe and end it is the happineſs of <hi>England</hi> to have an eſtabliſhed Law, Judicious and Learned Judges, a Diſ<g ref="char:EOLhyphen"/>creet Loyal Parliament, a Wiſe Council, and a Merciful Gracious Prince.</p>
+            <p>
+               <hi>Saturn</hi> in this Figure perſonates Religious men of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Church: and I am of the Opinion that the effect of this Fi<g ref="char:EOLhyphen"/>gure
+<pb n="6" facs="tcp:31205:7"/> will appear in matters of that nature and quality, that is in reference to their quiet or diſquiet, being or baniſhment, life or death, and not only of them, but of their Friends and Favorers alſo; <hi>Saturn</hi> is here in the laſt degrees of <hi>Gemini:</hi> And <hi>Bethen</hi> ſaith, <hi>That a</hi> Planet <hi>in the laſt degrees of a</hi> Sign, <hi>is as a man falling from his former eſtate,</hi> Apho. 22. <hi>and</hi> Apori. 25.</p>
+            <p>
+               <hi>Jupiter</hi> the great Patron of the Clergy, is almoſt in <hi>Sextile</hi> of the <hi>Sun</hi> and <hi>Saturn;</hi> the Governours and Rulers of Kingdoms and Nations will adhere to the Churchmen and Lawyers, and will confirm them in their Rites and Priviledges. Yet <hi>Venus</hi> who hath dignities in the <hi>Horoſcope,</hi> and by that ſhe hath ſome ſigni<g ref="char:EOLhyphen"/>fication of the Commonalty of Kingdoms, and ſhe alſo depoſeth of <hi>Jupiter</hi> in the firſt; hence there will be differences about pro<g ref="char:EOLhyphen"/>perties, and great debates and diſputes concerning the priviledges of men and Societies, and in the concluſion it will ſcarce appear to have been worth their while.</p>
+            <p>The <hi>Moon, Venus</hi> and <hi>Mercury</hi> are of one party, and <hi>Jupiter; Sol</hi> and <hi>Mars</hi> of the other, and according to their ſtrength and power ſo will the effects in theſe affairs be, which I judge will happen this time to the <hi>Moon, Venus</hi> and <hi>Mercury</hi> after much ſtruggling and contention; and while theſe two parties are con<g ref="char:EOLhyphen"/>tending, <hi>Saturn</hi> is undermining of them both by ſecret Coun<g ref="char:EOLhyphen"/>cils and Clandeſtine Deſigns. God preſerve us from Popiſh Plots, (in good earneſt) about <hi>Auguſt</hi> and the latter end of <hi>September,</hi> and alſo from Murders and Treacherous Actions.</p>
+            <p>Some Ambaſſador, Agent, or rather Miniſter of State imploy<g ref="char:EOLhyphen"/>ed in Forreign Affairs, ſeems to be queſtioned about his neglect, or ill performing his buſineſs; the matter is managed with great force and violence, but in the end it will appear not to be ſo bad as was ſuppoſed.</p>
+            <p>
+               <hi>Mars</hi> being indeed Lord of the <hi>Horoſcope</hi> principally, as having his day houſe <hi>Aries</hi> wholly incercepted there, will after much de<g ref="char:EOLhyphen"/>bate turn the Scene of Affairs wonderfully; yet <hi>Jupiter</hi> in re<g ref="char:EOLhyphen"/>ception with the <hi>Moon</hi> will bear as great ſway as any of them, if not all; and thoſe who are perſonated by <hi>Jupiter</hi> will be the only and effectually active for ſome Months, and who thoſe are,
+<pb n="7" facs="tcp:31205:7"/> may be eaſily known, if you conſider what Houſe he is Lord of; the <hi>Angle</hi> he is in, and the <hi>Moon</hi> he is in Reception with; and if you obſerve, <hi>Jupiter</hi> hath but one enemy in the whole Figure, and that is <hi>Venus</hi> who is in <hi>Trine</hi> to the <hi>Moon</hi> from regal fiery <hi>Signs.</hi> If the <hi>Reader</hi> pleaſes to obſerve what Houſe <hi>Venus</hi> is Lady of, he may ſoon gueſs at the cauſe of this difference, <hi>divitiae diſcordiam faciunt,</hi> or in <hi>Ovid</hi>'s term, <hi>irritamenta malorum.</hi>
+            </p>
+            <p>And as <hi>Venus</hi> is Lady of the ſecond and ſeventh Houſes, and in <hi>Square</hi> to <hi>Jupiter</hi> in the firſt from fixed <hi>Signs,</hi> this ſhews tena<g ref="char:EOLhyphen"/>cious differences, and that about Money and Priviledges; the <hi>Cauda draconis</hi> in the firſt Houſe, will be the cauſe of much Sorrow, Evil and Poverty to ſome Countries and People in <hi>Europe;</hi> Good and Honeſt men are Abuſed and Scoft at by the baſe and inferior rabble.</p>
+            <p>Theſe kind of <hi>Phaſma</hi>'s or Apparitions never happen, but they preſage ſome hurry or ſtorm in the World, as we have had large experience of within a few Months: And a Learned Philoſopher gives this account of their effects. <hi>Pluvias naturaliter ſignificat, ob copiam humoris in nubibus comprehenſam, Politice denotat magnum conflictum aut Cladem.</hi> That there will in ſome Country be diffe<g ref="char:EOLhyphen"/>rence, both Popular and Private, is without Controverſy; but with what kind of cloak the babe ſhall be covered I will not diſ<g ref="char:EOLhyphen"/>pute, but this I am ſure, that every threed of the whole garment will be lined with Religion, and things of that make and nature: And that I may prove Aſtrologically what I have here ſaid. Obſerve.</p>
+            <p>That <hi>Jupiter</hi> who is Lord of the ninth, is alſo Lord of the <hi>Aſ<g ref="char:EOLhyphen"/>cendant</hi> in the <hi>Aſcendant,</hi> and diſpoſeth of the <hi>Moon</hi> who is but juſt removed out of the ninth Houſe, and <hi>Mercury</hi> who is Lord of the ſeventh and diſpoſitor of <hi>Saturn,</hi> is in direct <hi>Oppoſition</hi> to the <hi>Moon</hi> and Cuſp of that Houſe alſo; and <hi>Mars</hi> who diſpoſeth of the <hi>Dragons Tail,</hi> was in <hi>Square</hi> to the <hi>Moon</hi> during her paſſage through the ninth Houth, and during the firſt half of the time of the appearance of this <hi>Phaſma</hi> the <hi>Moon</hi> was wholly and locally in the ninth Houſe, and alſo the <hi>Moon</hi> who was but a few Minutes before in the ninth Houſe, is in Reception with <hi>Jupiter</hi> the Lord thereof, and he the great Patron of Religion, and the laſt <hi>Con<g ref="char:EOLhyphen"/>junction</hi>
+               <pb n="8" facs="tcp:31205:8"/> of <hi>Saturn</hi> and <hi>Jupiter, anno</hi> 1663. was upon the Cuſp of the ninth Houſe in this Figure, and the <hi>Moon</hi> at that great <hi>Conjunction</hi> was in <hi>Gemini,</hi> and in this Figure ſhe is in the ninth in <hi>Oppoſition</hi> to her diſpoſitor in that: Hence it may appear to any who is Aſtrologically Learned, that the effects of this <hi>Phaſma</hi> prin<g ref="char:EOLhyphen"/>cipally will diſcover it ſelf in raiſing up the ſpirits of all ſorts of Diſſenters from our Religion eſtabliſhed by Laws, to the unhappy diſturbance thereof: And that ſuch Configurations have former<g ref="char:EOLhyphen"/>ly ſo done (though bleſſed be God without advantage to thoſe who have aimed at its ruine) will manifeſtly appear by this Aſtro<g ref="char:EOLhyphen"/>logical Hiſtory following. And firſt conſider whether <hi>Saturn</hi> doth not cauſe ſome hurry and moleſtation about Religion in the World the fifteenth year always after his <hi>Conjunction</hi> with <hi>Jupiter,</hi> and perhaps this may better ſatisfie the Reader, if he conſiders the years 1578, 1598, 1618, 1638, 1658. and laſtly the year 1678. with what <hi>Aſpects</hi> then happened, relating to the ſeveral Coun<g ref="char:EOLhyphen"/>tries according to the place where their <hi>Aſpects</hi> happen, and that when they chance to fall in <hi>Gemini, Sagitarius, Aries</hi> or <hi>Libra</hi> with their <hi>Quadrangles,</hi> they concern <hi>England,</hi> and particular<g ref="char:EOLhyphen"/>ly when their <hi>Aſpects</hi> happen in humane <hi>Signes,</hi> they then work upon men, and their actions at home; but if in <hi>Quadrupedian Signes,</hi> then their effects are Extraneous and Forreign; but of this matter ſome examples will more perfectly illuſtrate the Diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>
+               <hi>Anno</hi> 1563. In <hi>Auguſt</hi> there was a <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Cancer,</hi> after which followed that third Bloody War in <hi>France</hi> about Religion; and the Dukes <hi>d' Alva</hi> made horrible work in the <hi>Low Countries:</hi> And the Maſſacre in <hi>France</hi> ſuceed<g ref="char:EOLhyphen"/>ed alſo.</p>
+            <p>
+               <hi>Anno</hi> 1578. Being 15 years after the <hi>Conjunction, Saturn</hi> came to the <hi>Oppoſition</hi> hereof, and <hi>Mars</hi> was that year in <hi>Auguſt</hi> in <hi>Quartile</hi> to <hi>Saturn</hi> and in <hi>Oppoſition</hi> to <hi>Jupiter</hi> and the <hi>Sun.</hi> Pope <hi>Gregory the</hi> 13. Conſpired with the <hi>Spaniards</hi> to Depoſe Queen <hi>Elizabeth,</hi> and to reſtore the <hi>Romiſh</hi> Religion; and to this pur<g ref="char:EOLhyphen"/>poſe one <hi>Stukely,</hi> an <hi>Engliſh</hi> Fugitive, was ſent with 800 <hi>Ita<g ref="char:EOLhyphen"/>lians</hi> to Invade <hi>Ireland,</hi> and joyn there with the Popiſh Rebels who in 1579. did many Murders.</p>
+            <pb n="9" facs="tcp:31205:8"/>
+            <p>
+               <hi>Anno</hi> 1581. <hi>Edmond Campian</hi> the Jeſuit was Executed, with others, and new Laws made againſt the Papiſts; <hi>Mars</hi> that year did tranſite <hi>Gemini,</hi> and in <hi>July, Mercury</hi> in <hi>Leo</hi> paſſed by the <hi>Oppoſition</hi> of <hi>Saturn</hi> in <hi>Aquarius.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1583. There was a <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Piſces,</hi> and in <hi>July Mars</hi> being in <hi>Virgo,</hi> paſſed by the <hi>Oppoſition</hi> of them both; and ſhortly after <hi>Francis Throckmorton</hi> 
+               <abbr>Eſq</abbr> was Executed for contriving the death of the Queen, and ſhortly after <hi>William Parrey,</hi> for a Fact of the ſame kind, together with a horrid Plot (diſcovered by one <hi>Creighton</hi> a <hi>Scotch</hi> Jeſuit, who was taken upon the Seas by <hi>Dutch</hi> Pirates) of the Pope, and the <hi>Spaniards</hi> Reſolution to Invade <hi>England:</hi> By the Parliament, this year were all forbid to Harbour Papiſts, who were commanded to depart the Realm in 40 days.</p>
+            <p>
+               <hi>Anno</hi> 1588. When that ſo well known damnable deſign of the <hi>Spaniards</hi> was put in practice againſt <hi>England,</hi> there was a <hi>Con<g ref="char:EOLhyphen"/>junction</hi> of <hi>Saturn, Mars,</hi> the <hi>Sun</hi> and <hi>Mercury</hi> in <hi>Taurus:</hi> Yet without doubt this was but the effect of the laſt <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Piſces</hi> with ſome other cauſes, advanced by the <hi>Oppoſition</hi> of <hi>Saturn</hi> and <hi>Mercury</hi> from <hi>Aries</hi> and <hi>Libra</hi> in 1585. and their <hi>Conjunction</hi> in <hi>Aries</hi> 1386. Theſe without doubt were the Cauſes of thoſe diſturbances in thoſe years by Mr. <hi>Babington, Giffard</hi> a Prieſt, <hi>Ballard</hi> a Prieſt, and <hi>Hodgon</hi> one of the ſame Trade, together with <hi>l'Aubeſpine</hi> the <hi>French</hi> Ambaſſador, all contriving the Queens death.</p>
+            <p>
+               <hi>Anno</hi> 1589. The Papiſts again endeavour to Invade <hi>England</hi> again, by the means of <hi>Bruſe</hi> a Prieſt, and <hi>Creighton</hi> a Jeſuit, who drawed <hi>Huntley, Arral, Crawford,</hi> by perſwaſion into Arms, but were by the care of King <hi>James</hi> prevented: <hi>Saturn</hi> was now in <hi>Gemini,</hi> in <hi>Oppoſition</hi> to <hi>Mars</hi> in <hi>Sagitary,</hi> and <hi>Jupiter</hi> in <hi>Virgo</hi> in <hi>Square</hi> to <hi>Saturn;</hi> and ſhortly after <hi>Mars</hi> in <hi>Piſces</hi> near the place of the former <hi>Conjunction</hi> in <hi>Square</hi> to <hi>Saturn.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1594. Doctor <hi>Lopar</hi> was Executed undertaking to Poiſon the Queen, and <hi>Cullen, York,</hi> and <hi>Williams</hi> were appre<g ref="char:EOLhyphen"/>hended for undertaking to Burn the Fleet with Fire Balls; there was then in <hi>July</hi> a <hi>Conjunction</hi> of the <hi>Moon, Saturn, Mars, Venus,</hi>
+               <pb n="10" facs="tcp:31205:9"/> and <hi>Mercury</hi> in <hi>Leo</hi> in <hi>Oppoſition</hi> to <hi>Jupiter: Mars</hi> at the time of the <hi>Conjunction</hi> was very near the <hi>Lyons-heart.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1597. <hi>Saturn</hi> comes to the oppoſite place of the laſt <hi>Conjunction</hi> in <hi>Square</hi> to <hi>Mars</hi> in <hi>Gemini. Edward Squire</hi> was Executed for endeavouring to Poiſon the Pommel of the Queens Saddle, and the Pommel of the Earl of <hi>Eſſex</hi>'s Chair: To this he was perſwaded by <hi>Walpoole</hi> the Jeſuit, who gave him this Bene<g ref="char:EOLhyphen"/>diction. <hi>God bleſs thee and give thee ſtrength my Son, and give thee good courage, I pawn my Soul for thine, and thou ſhalt have my Prayers dead and alive.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1603. <hi>June</hi> there was an <hi>Oppoſition</hi> of <hi>Saturn</hi> and <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> from <hi>Sagitary</hi> and <hi>Gemini,</hi> upon which <hi>Oppoſition</hi> there was a horrible Plot diſcovered againſt King <hi>James:</hi> Thoſe concerned were the Lord <hi>Cobham,</hi> the Lord <hi>Gray</hi> of <hi>Wilton,</hi> Sir <hi>Walter Rawleigh,</hi> Sir <hi>Griffin Markham,</hi> Sir <hi>Edward Parham, Brook, Brooksby, Copley, Watſon</hi> and <hi>Clark,</hi> Prieſts; Their Indictment was for Conſpiring the Kings death, to raiſe Rebellion, to alter Reli<g ref="char:EOLhyphen"/>gion, to ſubvert the State, and procure Forreign Invaſion: They were all found guilty but <hi>Parham,</hi> of whom there were but three put death, that is <hi>Clark, Brooks</hi> and <hi>Watſon,</hi> who was the man that drew all the reſt into the Plot.</p>
+            <p>
+               <hi>Anno</hi> 1603. There was a <hi>Conjuncton</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Sagitary,</hi> and from that time to the end of <hi>June</hi> following <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> was in <hi>Libra,</hi> which was the ſpace of ſeven Months; and in <hi>October</hi> following <hi>Mars</hi> came to a <hi>Conjunction</hi> of them both in <hi>Sa<g ref="char:EOLhyphen"/>gitary</hi> (there was now a great Plague in <hi>England</hi> moſt part of this year 1604.) under the influence of theſe Poſitions they laid the en<g ref="char:EOLhyphen"/>ſuing Plot to blow up the Parliament Houſe. And in 1605. when <hi>Mars</hi> came to an <hi>Oppoſition</hi> of <hi>Saturn</hi> from <hi>Gemini</hi> and <hi>Sa<g ref="char:EOLhyphen"/>gitary</hi> in <hi>June,</hi> they began to fall cloſe to their work, and to haſten the bringing in of their materials to perform their deſign: And near the end of <hi>October Mercury</hi> came into <hi>Virgo</hi> to a <hi>Square</hi> of <hi>Saturn,</hi> and ſuddenly after the whole Plot was diſcovered, in which was <hi>Winter, Fauks, Keys, Bates, Winter, Graunt, Rook<g ref="char:EOLhyphen"/>wood, Digby.</hi> all which were Executed; and ſuddenly after <hi>Garnet</hi> the Provincial of the <hi>Engliſh</hi> Jeſuits was Executed alſo; at
+<pb n="11" facs="tcp:31205:9"/> which time there was alſo Proclamation for all Jeſuits, Prieſts and Friers to depart the Land upon pain of death.</p>
+            <p>
+               <hi>Anno</hi> 1610. In the beginning of the year there w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Oppoſi<g ref="char:EOLhyphen"/>tion</hi> of <hi>Jupiter</hi> and <hi>Mars</hi> from <hi>Gemini</hi> and <hi>Sagitary;</hi> there was now new Proclamation put forth to command all <hi>Roman</hi> Prieſts and Jeſuits to depart the Kingdom by the fourth of <hi>July</hi> following upon pain of death.</p>
+            <p>
+               <hi>Anno</hi> 1618. Which was the fifteenth year after the <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Jupiter;</hi> in <hi>June</hi> there was a <hi>Conjunction</hi> of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Mars</hi> in the beginning of <hi>Gemini,</hi> within ſix degrees of the oppoſite point of the laſt <hi>Conjunction,</hi> and <hi>Jupiter</hi> at that time in <hi>Square</hi> to them both: At this time not only <hi>England,</hi> but divers parts beyond Sea are in a general diſturbance about Reli<g ref="char:EOLhyphen"/>gion; the Pope perſwades the Papiſts to keep a day of Jubilee, and to implore Gods aſſiſtance to the Catholick Cauſe; the Elector of <hi>Saxony</hi> at that time remembring that it was 100 years ſince <hi>Luther</hi> oppoſed the Popes power, he ordained a ſolemn Feaſt of three days for Thanksgiving to God for their deliverance from the Tyranny of <hi>Rome;</hi> to this the Univerſities of <hi>Lipſick</hi> and <hi>Wit<g ref="char:EOLhyphen"/>temberg,</hi> and the <hi>Imperial</hi> Towns of <hi>Frankford, Worms</hi> and <hi>Norm<g ref="char:EOLhyphen"/>berg</hi> gave their Suffrage: Nay the <hi>Calviniſts</hi> alſo freely conſented to obſerve the ſame Jubilee in oppoſition to the <hi>Romiſh</hi> Church; the Proteſtants put forth Declarations of their Sufferings from the Popiſh party, and in the end both parties took Arms.</p>
+            <p>The <hi>Spaniards</hi> ſeek to Conſummate the Match between the In<g ref="char:EOLhyphen"/>fanta and the Prince of <hi>Wales,</hi> in hopes to advance the <hi>Romiſh</hi> Faction; which cauſeth much Jealouſies, and many fears among the Subjects. <hi>Gondamor</hi> endeavoureth and accompliſheth the death of Sir <hi>Walter Rawleigh,</hi> as a common enemy to the <hi>Spaniſh</hi> cauſe: In a word, it would take up a particular Volume to re<g ref="char:EOLhyphen"/>late the Troubles and Conſternations of <hi>Europe</hi> about Religion at that time, and the principle end of all was to reduce this King<g ref="char:EOLhyphen"/>dom of <hi>England</hi> to the <hi>Romiſh</hi> perſwaſion; but before <hi>Saturn</hi> got out of <hi>Gemini, Mars</hi> came to an <hi>Oppoſition</hi> of him in <hi>Sagitary.</hi> Theſe Hurries did not end here with 1618, but continued at leaſt four years and more, till the <hi>Conjunction</hi> in <hi>Leo</hi> gave freſh matter to the motion of Nature.</p>
+            <pb n="12" facs="tcp:31205:10" rendition="simple:additions"/>
+            <p>
+               <hi>Anno</hi> 1623. In <hi>July</hi> there was a <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> in <hi>Leo:</hi> The Marriage of the Prince of <hi>Wales</hi> to the Infanta, is the publick and common buſineſs of both Kingdoms, the Biſhop of <hi>Conchen</hi> Inquiſitor General of <hi>Spain,</hi> and <hi>Conde Olivares</hi> ſollicite the Prince to turn Papiſt, to which end they tamper with the Duke of <hi>Buckingham,</hi> and the Pope ſends a Letter both to the Prince and Duke about the ſame matter; in the end the Match is diſliked, and the Papiſts of <hi>England</hi> apprehend them<g ref="char:EOLhyphen"/>ſelves in danger thereby: The Prince leaves <hi>Spain,</hi> and ſhortly after Marries the <hi>French</hi> Lady; the <hi>Spaniards</hi> alſo prepare for a War with <hi>England;</hi> They that would ſee more of theſe matters, let them read our Learned and Honeſt Country man <hi>John Ruſh<g ref="char:EOLhyphen"/>worth</hi>'s Hiſtorical Collection of private paſſages of State.</p>
+            <p>
+               <hi>Anno</hi> 1621. There was a <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Mars</hi> in <hi>Libra,</hi> a humane <hi>Signe,</hi> and an <hi>Oppoſition</hi> of <hi>Jupiter,</hi> and the <hi>Sun</hi> from <hi>Sagitary</hi> and <hi>Gemini,</hi> the people commit divers Outrages in and about <hi>London,</hi> Dr. <hi>Lamb</hi> is Murdered in the Streets, the Duke of <hi>Buckingham</hi> is Killed by <hi>John Felton</hi> who is alſo Exe<g ref="char:EOLhyphen"/>cuted, great Severities are uſed againſt the Papiſts, who are Im<g ref="char:EOLhyphen"/>priſoned and proceeded againſt according to Law, divers Prieſts and Jeſuits taken at <hi>Clerkenwell</hi> and ſent to <hi>Newgate;</hi> new Proclamations againſt all Prieſts and Jeſuits, but particularly againſt the Titular Archbiſhop of <hi>Calcedon,</hi> and all others who had taken Orders from the See of <hi>Rome.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1638. Which was the fifteenth year after the <hi>Conjunction, Saturn</hi> comes to the oppoſite point of the <hi>Conjunction,</hi> and <hi>Mars</hi> the ſame year is ſeven Months paſſing through the Sign <hi>Sagitary,</hi> that is, from the begining of <hi>February</hi> to the beginning of <hi>Septem<g ref="char:EOLhyphen"/>ber:</hi> The <hi>Scots</hi> quarrel with the <hi>Common-Prayer</hi> Book lately ſent into <hi>Scotland,</hi> and it occaſions Tumultuous Meetings, The <hi>Scots</hi> enter into a Covenant, <hi>Charles</hi> the firſt declares againſt Innova<g ref="char:EOLhyphen"/>tions in Religion, The Queen Mother of <hi>France</hi> comes into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> The Covenanters take Arms, and Sollicite <hi>France</hi> for Aid, The King leads an Army into <hi>Scotland</hi> againſt them, he Encamps within two Miles of <hi>Berwick</hi> in view of the <hi>Scotch</hi> Army, they come to a Treaty, Peace is Concluded, and the Armies are both
+<pb n="13" facs="tcp:31205:10"/> Disbanded, and not long after the Troubles of <hi>England</hi> began, that is, in the year 1640. about Biſhops and Religion.</p>
+            <p>
+               <hi>Anno</hi> 1643. In the Month of <hi>February</hi> there was a <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> in 25 degrees of <hi>Piſces</hi> and <hi>Mars</hi> at the ſame time in <hi>Gemini</hi> in <hi>Square</hi> with the <hi>Sun</hi> and haſtening to a <hi>Square</hi> of <hi>Saturn,</hi> both in <hi>Piſces:</hi> The Capuchins at <hi>Somerſet-houſe</hi> were ba<g ref="char:EOLhyphen"/>niſhed by Order of Parliament, the Croſs in <hi>Cheapſide</hi> demoliſhed, <hi>&amp;c.</hi> The difference in <hi>England</hi> grows bloody, now in good earneſt, what the Cauſes of theſe differences were, together with the par<g ref="char:EOLhyphen"/>ticular tranſactions of the management, are ſo well known to all men in general, that it will ſave me both time and Paper in the further inlargement thereon.</p>
+            <p>
+               <hi>Anno</hi> 1656. <hi>Saturn</hi> came to the oppoſite point of the laſt <hi>Con<g ref="char:EOLhyphen"/>junction,</hi> and ſo made up not full fourteen years; but that <hi>Con<g ref="char:EOLhyphen"/>junction</hi> ſhould have fallen in <hi>Aries</hi> and <hi>Saturn</hi> would have come to its <hi>Oppoſition</hi> in 1658; yet nevertheleſs when he came to his fifteenth year, you may obſerve what a hurry here was in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Sir <hi>Henry Slingsby</hi> and Dr. <hi>Hewit</hi> died upon <hi>Tower-hill, Oliver Cromwel</hi> died alſo, <hi>Richard Cromwel</hi> was quickly after made Protector, and was afterwards quickly found uſeleſs; there were now divers new cuts of Government, as a Council of State, the Keepers of the Liberty of <hi>England,</hi> a Committee of Safety, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1663. There was a <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> in 13 degrees of <hi>Sagitary,</hi> and a little before the <hi>Counjunction Mars</hi> oppoſed them both from <hi>Gemini;</hi> The <hi>January</hi> following there were 19 or 20 men Executed in <hi>Yorkshire</hi> as Conſpirators, and the <hi>March</hi> following there was four more Condemned and Execu<g ref="char:EOLhyphen"/>ted in the ſame County for the ſame Facts, and in the year follow<g ref="char:EOLhyphen"/>ing the Wars with <hi>Holland</hi> began.</p>
+            <p>
+               <hi>Anno</hi> 1678. <hi>Saturn</hi> came to an <hi>Oppoſition</hi> of the place of the former <hi>Conjunction,</hi> and within two Months after he came to a <hi>Conjunction</hi> of <hi>Mars</hi> near the ſame place, this being compleatly the 15 year after the <hi>Conjunction;</hi> the <hi>Michaelmas</hi> day at night fol<g ref="char:EOLhyphen"/>lowing there was a Horrid Popiſh Plot diſcovered at <hi>Whitehall</hi> to take away His Majeſties Life, <hi>&amp;c.</hi> To alter Religion, bringing in Popery, and change the Government, for which thirteen men
+<pb n="14" facs="tcp:31205:11"/> have ſuffered, namely <hi>Coleman, Green, Berry, Hill, Ireland, Groves, Pickering, Whitebread, Harcourt, Gawen, Turner, Fen<g ref="char:EOLhyphen"/>wick</hi> and Mr. <hi>Langhorn:</hi> But this may be obſerved by the Studi<g ref="char:EOLhyphen"/>ous Reader, that from the beginning of <hi>October</hi> 1678. (ſuddenly after this Plot was diſcovered) to the end of <hi>May</hi> laſt paſt the Fiery Planet <hi>Mars</hi> was paſſing through <hi>Leo,</hi> which was almoſt eight Months, a thing not uſual; what hath been the effect of this in <hi>England,</hi> I ſuppoſe the whole Kingdom knows; neither need I be at the pains to Inſert the particulars thereof, they being ſo well known to every one.</p>
+            <p>Thus have I endeavoured to prove the fifteenth year after the <hi>Conjunction</hi> to be a year of Trouble, eſpecially to <hi>England,</hi> if at that time <hi>Saturn</hi> or <hi>Mars</hi> happen to be in <hi>Sagitary</hi> or <hi>Gemini;</hi> and that at thoſe times there happens debates and differences about Religion, as I have before proved.</p>
+            <p>Hence it may appear that theſe ſubſequent years are like to be years of great trouble in the World; to omit a particular Judg<g ref="char:EOLhyphen"/>ment of all the troubleſome years, I only here ſpeak in the gene<g ref="char:EOLhyphen"/>ral (for I well know that <hi>Saturn</hi> and <hi>Jupiter</hi> make no leſs then four <hi>Conjunctions</hi> in the Sign <hi>Leo,</hi> and I could ſpeak ſomething of their effects, but it is not my buſineſs in this place, perhaps I may live to do it.) But I ſpeak according to the precedent Hy<g ref="char:EOLhyphen"/>potheſis.</p>
+            <p>Firſt, 1686. <hi>Jupiter</hi> in <hi>Scorpio</hi> in <hi>Quartile</hi> to the place of the laſt <hi>Conjunction,</hi> and <hi>Mars</hi> in <hi>Gemini</hi> in <hi>Quartile</hi> to <hi>Saturn</hi> in <hi>Virgo;</hi> ſome difference now about Religious Affairs.</p>
+            <p>Secondly, 1690. <hi>Saturn</hi> comes to the <hi>Quadrate</hi> of the <hi>Con<g ref="char:EOLhyphen"/>junction,</hi> and there Stationary in <hi>Oppoſition</hi> to <hi>Mercury;</hi> this threatens ſome Country with Wars and Calamities.</p>
+            <p>
+               <hi>Anno</hi> 1692. <hi>Mars</hi> Stationary in <hi>Gemini</hi> in <hi>Oppoſition</hi> to <hi>Saturn</hi> in <hi>Sagitary,</hi> this ſeems to portend a Storm to <hi>London</hi> about Re<g ref="char:EOLhyphen"/>ligion, and this is confirmed by <hi>Mars</hi> his <hi>Conjunction</hi> with <hi>Saturn</hi> in <hi>Sagitary,</hi> and both in <hi>Oppoſition</hi> to <hi>Jupiter</hi> in <hi>Gemini</hi> in the ſame year, which I fear may be continued to 1693.</p>
+            <p>
+               <hi>Anno</hi> 1698. Which is the fourteenth year after their fourth <hi>Conjunction</hi> in <hi>Leo</hi> 1683. <hi>Saturn</hi> comes to the oppoſite place of the
+<pb n="15" facs="tcp:31205:11"/> 
+               <hi>Conjunction</hi> in <hi>Quartile</hi> to <hi>Jupiter</hi> and <hi>Mercury</hi> in <hi>Conjunction</hi> in <hi>Scorpio,</hi> and in 1699. <hi>Mercury</hi> comes to a <hi>Conjunction</hi> of <hi>Saturn</hi> in <hi>Aquarius,</hi> in direct <hi>Oppoſition</hi> to the degree of the <hi>Conjunction</hi> 1682. God preſerve ſome parts of <hi>Europe</hi> from Murders and Slaughters, <hi>&amp;c.</hi> Why may there not ſome Factions ariſe among the <hi>Roman</hi> Clergy in order to the ruine of that See? I am of the Opinion there will now, and within a few years ſucceeding.</p>
+            <p>The fate of Kingdoms and Countries doth not depend only upon the <hi>Conjunction</hi> and <hi>Aſpects</hi> of the <hi>Planets</hi> only, but alſo up<g ref="char:EOLhyphen"/>on the motion of the <hi>Nodes;</hi> for by their motion through the Signes, are Eclipſes cauſed in divers parts of the Heavens: And when they (eſpecially thoſe of the <hi>Sun</hi>) happen near the <hi>Horo<g ref="char:EOLhyphen"/>ſcopes</hi> of Kingdoms or Cities, they cauſe divers Accidents and Calamities according to their then ſignification; and it will not be amiſs here to give a Hiſtorical Account of their effects as they have for many years concerned <hi>Great Brittain</hi> and <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1554. There was an <hi>Oppoſition</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> from <hi>Virgo</hi> and <hi>Piſces,</hi> and the next year the <hi>North Node</hi> tranſited <hi>Ge<g ref="char:EOLhyphen"/>mini;</hi> in thoſe years were the great Perſecutions in Queen <hi>Marys</hi> dayes, and other differences and diſputes about Religion, which may be eaſily remembred by the Reformed Churches ſtill.</p>
+            <p>
+               <hi>Anno</hi> 1564. The <hi>North Node</hi> tranſited <hi>Sagitary,</hi> about this time the Duke of <hi>Guiſe</hi> Killed 1500 people at a Sermon, great troubles throughout <hi>France;</hi> and there was a Rebellion in the <hi>North</hi> of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1574. The Prince of <hi>Conde</hi> heads the Proteſtants, and ſo begins the firſt Civil War in <hi>France</hi> about Religion, which by Act of Pacification was ended <hi>anno</hi> 1576. the <hi>South Node</hi> then tranſited <hi>Gemini.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1583, and 1584. The <hi>North Node</hi> again tranſited <hi>Sagitary,</hi> now great troubles in <hi>England</hi> with Plots againſt the Queen and Proteſtants.</p>
+            <p>
+               <hi>Anno</hi> 1592. The <hi>North Node</hi> paſſeth through <hi>Gemini;</hi> the Popiſh Lords riſe in <hi>Scotland,</hi> ſome Hang'd for Writing Sediti<g ref="char:EOLhyphen"/>ous Books, and ſhortly after the Plot of Dr. <hi>Lopez.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1602. The <hi>North Node</hi> again paſſed through <hi>Sagitary,</hi>
+               <pb n="16" facs="tcp:31205:12"/> the Jeſuits and Secular Prieſts in <hi>England</hi> quarrel, and the year following the Plot of <hi>Watſon</hi> and <hi>Clark</hi> againſt King <hi>James</hi> is diſcovered.</p>
+            <p>
+               <hi>Anno</hi> 1611. There was a total Eclipſe of the <hi>Sun</hi> in <hi>Gemini,</hi> Proclamations againſt Prieſts and Jeſuits; two <hi>Arrian</hi> Hereticks Burnt, the one at <hi>London,</hi> the other at <hi>Lichfield,</hi> and Prince <hi>Henry</hi> the Flower of <hi>England</hi> dies.</p>
+            <p>
+               <hi>Anno</hi> 1621. There was a great Eclipſe in the beginning of <hi>Ge<g ref="char:EOLhyphen"/>mini, Gondamore</hi> is abuſed by the people in <hi>London</hi> Streets, and the <hi>French</hi> Proteſtants are troubled by the Papiſts.</p>
+            <p>
+               <hi>Anno</hi> 1630. There was two very great Eclipſes of the <hi>Sun,</hi> the one in <hi>Gemini,</hi> the other in <hi>Sagitary;</hi> the Earl of <hi>Caſtlehaven</hi> Beheaded on <hi>Tower-hill, London</hi>-Bridge lamentably ruined by Fire, ſoon after ſome Tumults in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1639. There were two very great Eclipſes of the <hi>Sun,</hi> the one in <hi>Gemini,</hi> the other in <hi>Sagitary;</hi> the King Marches down into <hi>Scotland</hi> againſt the <hi>Scots</hi> then in Arms, the <hi>Spaniards</hi> and <hi>Dutch</hi> Fight in the <hi>Downs,</hi> the <hi>Scots</hi> Invade <hi>England,</hi> &amp;c.</p>
+            <p>
+               <hi>Anno</hi> 1648. There was a Total Eclipſe of the <hi>Sun</hi> in the laſt degree of <hi>Gemini; Francis</hi> Lord <hi>Villiers</hi> ſlain, <hi>Colcheſter</hi> ſurrendred, and <hi>Lucas</hi> and <hi>Liſle</hi> Shot, the King Murdered, the <hi>Iriſh</hi> Rebel<g ref="char:EOLhyphen"/>lion, and ſhortly after the Powder-blow in <hi>Tower</hi>-Street, <hi>Cum multis aliis.</hi>
+            </p>
+            <p>
+               <hi>Anno</hi> 1658. There was two Central Eclipſes of the <hi>Sun</hi> in <hi>Sa<g ref="char:EOLhyphen"/>gitary</hi> and <hi>Gemini; Cromwel</hi> dies, an Inſurrection in <hi>Chesſhire, Monck</hi> Marches toward <hi>London,</hi> Tumults and Uproars in the City, the Gates and Portculliſes of <hi>London</hi> pull'd down.</p>
+            <p>
+               <hi>Anno</hi> 1666. In <hi>December</hi> there was almoſt an Central Eclipſe of the <hi>Moon</hi> in <hi>Gemini,</hi> and in <hi>May</hi> following there happen'd ano<g ref="char:EOLhyphen"/>ther as great in <hi>Sagitary,</hi> and in <hi>November</hi> following there was another as great as either in <hi>Gemini,</hi> all of the <hi>Moon;</hi> the Boyes Riſe Tumultuouſly in <hi>London,</hi> and withſtand the Kings Guards; ſhortly after the then Mayor laying hold of the Penal Laws, ſet the City into a common hurry, by committing divers of the Al<g ref="char:EOLhyphen"/>dermen and other Citizens to Priſon for Religion.</p>
+            <p>
+               <hi>Anno</hi> 1676. There were two Central Eclipſes of the <hi>Sun,</hi> the
+<pb n="17" facs="tcp:31205:12" rendition="simple:additions"/> one in <hi>Gemini,</hi> the other in <hi>Sagitary;</hi> Tumultuous Riſings in <hi>London,</hi> the Weavers Riſe about the Abuſes of their Trade, the Train-bands are raiſed to prevent Diſturbances; here are alſo new Proclamations and old Laws put in force againſt the Noncon<g ref="char:EOLhyphen"/>formiſts.</p>
+            <p>By this Rule, we muſt expect ſome effects of ſome ſuch like nature, when the <hi>North-Node</hi> tranſites <hi>Gemini,</hi> which is in the year 1785, and 1686. But what theſe effects will be, let time ſhew.</p>
+            <p>But ſecondly and laſtly in particular, the effects of this <hi>Phaſma</hi> or <hi>two Moons</hi> will appear more viſibly about the beginning of <hi>Au<g ref="char:EOLhyphen"/>guſt, Saturn</hi> and <hi>Mars</hi> then having been in <hi>Square</hi> a little before: So alſo about the middle of <hi>November, Mars</hi> then comes to the op<g ref="char:EOLhyphen"/>poſite point of the laſt <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Mars,</hi> and to<g ref="char:EOLhyphen"/>ward the end of <hi>November</hi> the <hi>Sun</hi> comes to the ſame point: <hi>De<g ref="char:EOLhyphen"/>cember</hi> will be a Month of great Action in ſome Countrys of <hi>Europe,</hi> and ſo will <hi>January</hi> following, neither will <hi>March</hi> be a Month of leſs Action then the reſt: <hi>France</hi> and <hi>Germany</hi> are un<g ref="char:EOLhyphen"/>der <hi>Aries,</hi> God preſerve thoſe places and all others under <hi>Aries</hi> from Differences and Wars.</p>
+            <p>I thought to have inſiſted Aſtrologically upon thoſe Oppoſiti<g ref="char:EOLhyphen"/>ons of <hi>Saturn</hi> and <hi>Mars,</hi> and <hi>Saturn</hi> and the <hi>Sun</hi> in <hi>December</hi> next; but becauſe it is a work of a different nature from this here be<g ref="char:EOLhyphen"/>fore us, I will refer it to ſome other opportunity, or elſe leave it for ſome abler Pen: In the mean time I pray God bleſs <hi>England, Scotland</hi> and <hi>Ireland,</hi> with Peace and Plenty, and let all our Con<g ref="char:EOLhyphen"/>tention be who ſhall be moſt Zealous, and who ſhall perform the moſt Acts of Juſtice in the fear of God, then may <hi>England</hi> be cal<g ref="char:EOLhyphen"/>led the <hi>Holy Land,</hi> and <hi>London, The New</hi> Jeruſalem, <hi>the City of our God:</hi> And as <hi>Ovid</hi> himſelf ſaid, ſo do I.
+<q xml:lang="lat">
+                  <l>—Quod ſi quis ab alto</l>
+                  <l>Juſtus adeſt precibus, <hi>Jupiter</hi> ipſe meis</l>
+                  <l>Dii, precor, a nobis omen removete Siniſtrum</l>
+                  <l>&amp; ſua det reduci vir meus arma <hi>Jovi.</hi>
+                  </l>
+                  <l>Sed timeo: quotieſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſubit miſerabile bellum</l>
+                  <l>more nivis lacrymae ſole madentis eunt.</l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31205:13" rendition="simple:additions"/>
+            <pb facs="tcp:31205:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
